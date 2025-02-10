@@ -6,5 +6,10 @@ def add(a, b):
 def subtract(a, b):
 return a - b
 
-# call the add function
-print(add(1, 2))
+# call the add func eyelhfejdejfition
+print(add(1, 2)) 
+return 0 
+fhyrhfhrhnf
+# call the subtract function
+print(subtract(2, 1))
+return 0
